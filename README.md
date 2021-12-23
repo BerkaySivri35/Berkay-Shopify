@@ -1,9 +1,8 @@
-# :wave: Say hi :wave:
-
-[![Generic badge](https://img.shields.io/badge/course%20available%3F-yes-green.svg)](https://shields.io/)
+# :wave: Say hi to Shopify :wave:
 
 
-## Lessons covered
+
+## Components
 
 Status | Lectures
 ------------ | -------------
